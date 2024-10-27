@@ -5,4 +5,4 @@ const multiplicação = function(){
     let total = num1 * num2
     let out = document.getElementById("total")
     out.innerHTML = total
-}
+    }
