@@ -6,3 +6,4 @@ const soma = function(){
     let out = document.getElementById("total")
     out.innerHTML = total
     }
+
