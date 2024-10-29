@@ -7,8 +7,15 @@ const multiplicação = function(){
     out.innerHTML = total
     }
 
+const divi = function(){
+    let total = num1 / num2
+    let out = document.getElementById("total")
+    out.innerHTML = total
+    }
+=======
 const sub = function(){
         let total = num1 - num2
         let out = document.getElementById("total")
         out.innerHTML = total
     }
+
